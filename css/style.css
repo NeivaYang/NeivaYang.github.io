@@ -75,8 +75,9 @@ section{
 	background-size: cover;
 	background-position: center;
 	display: flex;
-	align-items: left;
-	justify-content: flex-start;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
 }
 .home-text h1{
 	margin: 20px 0;
